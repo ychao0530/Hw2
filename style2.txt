@@ -1,0 +1,16 @@
+#resume {background: white; width:1000px; margin:auto; padding:20px; text-align:left; border-left: solid 6px blue; border-right: solid 6px blue;
+border-top: solid 6px yellow; border-bottom: solid 6px black;  }
+#contacts { text-align: center; color: black; padding-bottom: 10pt; font-weight: bold; padding-top: 10pt; }
+#contacts  li{ display: inline;  }
+#header2 { text-align: center; color: black; font-size: 15pt; padding-bottom:0pt; padding-top: 0pt; background-color: blue; font-family: Arial; }
+h1 { color: blue; text-align: center; font-weight: bold; padding-top: 0pt; padding-bottom: 0pt; font-family: Algerian; font-size:32pt; }
+h2 { color: blue; font-size: 18pt; }
+h3 { color: black; }
+div { text-align: justify; }
+body
+{ background-color: pink; }
+a:link, a:visited {color: black;}
+a:hover, a:active {text-decoration: underline; color: black;}
+ul { margin:0px; padding:0; list-style:none; }
+li { margin-left:20px; margin-bottom:20px; padding:0;  }
+#footer { color: black; text-align: center; font-family: Arial; font-size: 14pt; padding-top: 5pt; }
